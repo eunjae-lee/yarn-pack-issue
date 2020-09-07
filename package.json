@@ -8,7 +8,6 @@
     "!**/__tests__/**"
   ],
   "scripts": {
-    "prepare": "touch .env",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
