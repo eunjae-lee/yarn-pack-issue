@@ -21,3 +21,5 @@ There seems to be an error regarding how yarn interprets `files` property when t
 
 I've confirmed this behaviour with yarn 1.16.0 and 1.22.5.
 ```
+
+https://github.com/yarnpkg/yarn/issues/8332
